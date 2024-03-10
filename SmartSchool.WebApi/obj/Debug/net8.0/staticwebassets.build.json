@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bRZeQPE8+AXIx2dW7iyAHG1lci7OUehu7PJ/TDCjzm4=",
+  "Source": "SmartSchool.WebApi",
+  "BasePath": "_content/SmartSchool.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
